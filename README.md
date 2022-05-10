@@ -1,1 +1,1 @@
-# bingbu.github.io
+# bingbu
